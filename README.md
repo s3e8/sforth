@@ -1,1 +1,6 @@
-# sforth
+# forth
+
+## Todo
+- [ ] Dictionary
+- [ ] Stack
+- [ ] "Reader"?
